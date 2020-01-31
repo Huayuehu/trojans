@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello better USC"
+echo "hello new version for the third time"
 }
 
 func
